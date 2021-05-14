@@ -1,0 +1,7 @@
+networks:
+  default: kovan
+  kovan:
+    link_token: '0xa36085F69e2889c224210F603D836748e7dC0088'
+wallets:
+  from_key: 44d49f3fcd35aa2f475eabec405cc63ef13b9c0968f3c09d47e3ea8870e6eb7e
+
